@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Front-End Developer  with expertise in JavaScript and a strong foundation in creativity, communication, adaptability, and resilience. Proficient in utilizing industry-leading tools and frameworks to create visually stunning and highly functional web applications. Proven ability to collaborate seamlessly with cross-functional teams and transform design concepts into practical, responsive interfaces. Technical Proficiency:
+A Front-End Developer  with expertise in JavaScript and a strong foundation in creativity, communication, adaptability, and resilience. Proficient in utilizing industry-leading tools and frameworks to create visually stunning and highly functional web applications. Proven ability to collaborate seamlessly with cross-functional teams and transform design concepts into practical, responsive interfaces.
 
 
 ## 🌐 Socials:
